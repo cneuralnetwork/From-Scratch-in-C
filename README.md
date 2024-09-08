@@ -7,4 +7,4 @@ This project is my little place where I try to implement concepts that I learn i
 - [x] Elevator Logic in C
 ### 1. Data Structures
 - [x] Stack
-- [ ] Queue
+- [x] Queue
