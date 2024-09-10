@@ -9,3 +9,6 @@ This project is my little place where I try to implement concepts that I learn i
 ### 1. Data Structures
 - [x] Stack
 - [x] Queue
+- [x] Single Linked List
+- [x] Circular Linked List
+- [x] Double Linked List
