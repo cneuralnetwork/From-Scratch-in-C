@@ -12,6 +12,7 @@ This project is my little place where I try to implement concepts that I learn i
 - [x] Single Linked List
 - [x] Circular Linked List
 - [x] Double Linked List
+- [X] Sorting Algorithms
 ### 2. Ciphers
 - [x] Caesar Cipher
 - [x] Monoalphabetic Cipher
