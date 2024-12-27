@@ -19,5 +19,5 @@ This project is my little place where I try to implement concepts that I learn i
 - [x] Homophonic Substitution Cipher
 - [ ] Polygram Substitution Cipher
 - [ ] Polyalphabetic Substitution Cipher
-- [ ] Playfair Cipher
+- [x] Playfair Cipher
 - [ ] Hill Cipher
