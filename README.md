@@ -21,3 +21,6 @@ This project is my little place where I try to implement concepts that I learn i
 - [ ] Polyalphabetic Substitution Cipher
 - [x] Playfair Cipher
 - [ ] Hill Cipher
+### 3. OpenGL
+- [x] Bresenham's Algorithm
+- [ ] Middlepoint Circle Algorithm
